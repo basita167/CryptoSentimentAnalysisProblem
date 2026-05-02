@@ -1,0 +1,7 @@
+Label mapping: {np.int64(0): 0, np.int64(1): 1, np.int64(2): 2}
+Epoch 1, Loss: 0.9509, Accuracy: 0.6179
+Epoch 2, Loss: 0.7449, Accuracy: 0.6786
+Epoch 3, Loss: 0.6633, Accuracy: 0.7000
+Epoch 4, Loss: 0.5541, Accuracy: 0.7893
+Epoch 5, Loss: 0.3951, Accuracy: 0.8571
+Test Accuracy: 0.8571428571428571
