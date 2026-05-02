@@ -1,0 +1,365 @@
+id,date,source,headline,content,crypto,topic,sentiment,confidence,impact_score
+1,2026-03-01,CoinDesk,Bitcoin gains momentum after positive inflows,Institutional investors increase BTC exposure driving bullish sentiment,BTC,market,2,0.92,9
+2,2026-03-02,CoinTelegraph,Ethereum upgrade boosts scalability,Network improvements lead to faster transactions on ETH,ETH,technology,2,0.90,8
+3,2026-03-03,Reuters,Solana ecosystem expands rapidly,New projects increase adoption of SOL network,SOL,adoption,2,0.88,8
+4,2026-03-04,Bloomberg,Cardano sees rising developer interest,More developers join ADA ecosystem for dApp creation,ADA,development,2,0.86,7
+5,2026-03-05,CoinDesk,Stable growth observed in crypto market,Market shows steady upward movement without volatility,BTC,market,1,0.80,6
+6,2026-03-06,CoinTelegraph,Bitcoin breaks resistance level,BTC crosses key price barrier attracting buyers,BTC,market,2,0.94,9
+7,2026-03-07,Reuters,ETH adoption increases in DeFi,Ethereum used widely in decentralized finance apps,ETH,defi,2,0.89,8
+8,2026-03-08,Bloomberg,Positive sentiment rises in crypto community,Social media shows bullish outlook across assets,BTC,sentiment,2,0.85,7
+9,2026-03-09,CoinDesk,New blockchain partnerships announced,Companies collaborate to improve crypto infrastructure,SOL,adoption,2,0.87,8
+10,2026-03-10,CoinTelegraph,Market recovery strengthens investor confidence,Crypto prices rebound after recent dip,BTC,market,2,0.91,9
+11,2026-03-11,Reuters,Institutional adoption increases steadily,Banks explore crypto integration solutions,BTC,adoption,2,0.88,8
+12,2026-03-12,Bloomberg,ETH gas fees decrease significantly,Lower transaction costs improve usability,ETH,technology,2,0.90,7
+13,2026-03-13,CoinDesk,Bitcoin ETF rumors boost optimism,Speculation drives positive trading behavior,BTC,market,2,0.93,9
+14,2026-03-14,CoinTelegraph,Altcoin rally observed across market,Multiple tokens show strong upward movement,ADA,market,2,0.86,8
+15,2026-03-15,Reuters,DeFi adoption reaches new highs,More users participate in decentralized finance,ETH,defi,2,0.88,8
+16,2026-03-16,Bloomberg,Positive regulatory clarity expected,Market reacts well to upcoming policy updates,BTC,regulation,2,0.84,7
+17,2026-03-17,CoinDesk,Blockchain innovation drives optimism,New technologies enhance ecosystem growth,SOL,technology,2,0.87,8
+18,2026-03-18,CoinTelegraph,Bitcoin mining efficiency improves,New hardware reduces energy consumption,BTC,technology,2,0.89,8
+19,2026-03-19,Reuters,Market sentiment turns bullish again,Investors regain confidence in crypto assets,BTC,sentiment,2,0.91,9
+20,2026-03-20,Bloomberg,ETH ecosystem shows strong growth,Developer activity increases significantly,ETH,development,2,0.88,8
+21,2026-03-21,CoinDesk,Solana transactions hit record high,Network usage reaches new peak,SOL,market,2,0.92,9
+22,2026-03-22,CoinTelegraph,Cardano sees strong community support,User engagement increases across platform,ADA,adoption,2,0.85,7
+23,2026-03-23,Reuters,Bitcoin demand rises globally,Global interest in BTC increases sharply,BTC,market,2,0.93,9
+24,2026-03-24,Bloomberg,DeFi innovation accelerates growth,New protocols improve financial accessibility,ETH,defi,2,0.87,8
+25,2026-03-25,CoinDesk,Crypto market enters bullish phase,Overall upward trend continues,BTC,market,2,0.90,8
+26,2026-03-26,CoinTelegraph,Institutional confidence strengthens,Large funds increase crypto holdings,BTC,adoption,2,0.91,9
+27,2026-03-27,Reuters,ETH scalability solutions succeed,Layer 2 improvements enhance performance,ETH,technology,2,0.88,8
+28,2026-03-28,Bloomberg,Positive outlook for blockchain sector,Industry shows strong growth potential,SOL,market,2,0.86,8
+29,2026-03-29,CoinDesk,Bitcoin rally continues steadily,Price maintains upward trajectory,BTC,market,2,0.92,9
+30,2026-03-30,CoinTelegraph,Market optimism increases further,Investors expect continued growth,BTC,sentiment,2,0.90,8
+31,2026-03-01,Reuters,Crypto market shows no major movement,Prices remain stable across major assets,BTC,market,1,0.70,4
+32,2026-03-02,CoinDesk,ETH network activity remains unchanged,No significant updates observed in Ethereum ecosystem,ETH,market,1,0.72,4
+33,2026-03-03,Bloomberg,Solana trading volume steady,No major spikes in SOL transactions,SOL,market,1,0.68,4
+34,2026-03-04,CoinTelegraph,Cardano price moves sideways,ADA shows no clear trend direction,ADA,market,1,0.71,4
+35,2026-03-05,Reuters,Bitcoin maintains current level,BTC trades within narrow range,BTC,market,1,0.73,5
+36,2026-03-06,CoinDesk,Market remains balanced,Crypto assets show mixed but stable performance,BTC,market,1,0.75,5
+37,2026-03-07,Bloomberg,ETH gas fees remain unchanged,No notable change in transaction costs,ETH,technology,1,0.70,4
+38,2026-03-08,CoinTelegraph,No significant crypto news reported,Market activity remains quiet,BTC,market,1,0.69,3
+39,2026-03-09,Reuters,Stable trading observed in altcoins,No volatility detected across tokens,ADA,market,1,0.72,4
+40,2026-03-10,CoinDesk,Bitcoin consolidation continues,BTC price remains range bound,BTC,market,1,0.74,5
+41,2026-03-11,Bloomberg,ETH ecosystem stable,No major developments reported,ETH,development,1,0.71,4
+42,2026-03-12,CoinTelegraph,Market activity unchanged,Crypto trading volume remains steady,BTC,market,1,0.70,4
+43,2026-03-13,Reuters,Solana network stable performance,SOL shows consistent throughput,SOL,technology,1,0.73,5
+44,2026-03-14,CoinDesk,Cardano development steady pace,No major announcements from ADA ecosystem,ADA,development,1,0.72,4
+45,2026-03-15,Bloomberg,Crypto sentiment neutral overall,Market sentiment balanced without bias,BTC,sentiment,1,0.74,5
+46,2026-03-16,CoinTelegraph,No major price change in BTC,Bitcoin remains stable,BTC,market,1,0.71,4
+47,2026-03-17,Reuters,ETH trading remains consistent,Ethereum shows no volatility,ETH,market,1,0.73,5
+48,2026-03-18,CoinDesk,Market shows equilibrium,Crypto prices remain unchanged,BTC,market,1,0.72,4
+49,2026-03-19,Bloomberg,Solana usage steady,No significant change in activity,SOL,adoption,1,0.70,4
+50,2026-03-20,CoinTelegraph,Cardano stable ecosystem activity,ADA network remains steady,ADA,development,1,0.71,4
+
+
+
+51,2026-03-21,CoinDesk,Bitcoin drops after sudden selloff,Large investors liquidate BTC holdings causing downward pressure,BTC,market,0,0.91,8
+52,2026-03-22,Reuters,Ethereum network faces temporary outage,Validators report delays affecting ETH transactions,ETH,technology,0,0.89,8
+53,2026-03-23,Bloomberg,Solana experiences congestion issues,Network slowdown reduces transaction throughput,SOL,technology,0,0.87,7
+54,2026-03-24,CoinTelegraph,Cardano price falls amid weak demand,ADA sees declining investor interest in short term,ADA,market,0,0.86,7
+55,2026-03-25,CoinDesk,Bitcoin volatility increases sharply,BTC sees unstable price movements causing uncertainty,BTC,market,0,0.90,8
+56,2026-03-26,Reuters,ETH gas fees spike unexpectedly,Transaction costs rise significantly across Ethereum,ETH,technology,0,0.88,8
+57,2026-03-27,Bloomberg,Crypto market declines across major assets,Broad selloff impacts BTC ETH and altcoins,BTC,market,0,0.92,9
+58,2026-03-28,CoinTelegraph,Solana faces validator downtime issues,SOL network stability concerns arise after outages,SOL,technology,0,0.87,8
+59,2026-03-29,CoinDesk,Cardano development slows down temporarily,Reduced activity observed in ADA ecosystem,ADA,development,0,0.84,7
+60,2026-03-30,Reuters,Bitcoin struggles to maintain support level,BTC fails to hold key price zone under pressure,BTC,market,0,0.91,9
+61,2026-04-01,Bloomberg,Market shows no clear direction,Crypto assets trade sideways without trend,BTC,market,1,0.70,5
+62,2026-04-02,CoinDesk,ETH network remains stable today,Ethereum shows normal transaction activity,ETH,technology,1,0.72,5
+63,2026-04-03,CoinTelegraph,Solana trading volume steady,SOL maintains consistent activity levels,SOL,market,1,0.71,5
+64,2026-04-04,Reuters,Cardano ecosystem remains unchanged,No major updates in ADA development,ADA,development,1,0.69,4
+65,2026-04-05,Bloomberg,Bitcoin consolidates in narrow range,BTC price remains stable without breakout,BTC,market,1,0.73,5
+66,2026-04-06,CoinDesk,Crypto sentiment remains neutral,Market participants show balanced outlook,BTC,sentiment,1,0.74,5
+67,2026-04-07,CoinTelegraph,ETH gas fees stable today,No major fluctuations in Ethereum costs,ETH,technology,1,0.71,4
+68,2026-04-08,Reuters,Solana network operates normally,SOL continues steady transaction processing,SOL,technology,1,0.72,5
+69,2026-04-09,Bloomberg,Cardano community activity stable,ADA engagement remains consistent,ADA,adoption,1,0.70,4
+70,2026-04-10,CoinDesk,Bitcoin trading remains flat,BTC shows no major price movement,BTC,market,1,0.73,5
+71,2026-04-11,CoinTelegraph,Ethereum upgrade expectations build,Investors anticipate future ETH improvements,ETH,technology,2,0.88,8
+72,2026-04-12,Reuters,Bitcoin sees renewed buying interest,BTC gains momentum from institutional inflows,BTC,market,2,0.92,9
+73,2026-04-13,Bloomberg,Solana ecosystem expands rapidly,New projects boost SOL adoption,SOL,adoption,2,0.89,8
+74,2026-04-14,CoinDesk,Cardano developer activity rises,More builders join ADA ecosystem,ADA,development,2,0.87,8
+75,2026-04-15,CoinTelegraph,Crypto market rebounds strongly,Assets recover after previous decline,BTC,market,2,0.91,9
+76,2026-04-16,Reuters,ETH DeFi usage increases significantly,Ethereum sees higher decentralized finance activity,ETH,defi,2,0.90,8
+77,2026-04-17,Bloomberg,Bitcoin breaks key resistance level,BTC price moves upward attracting buyers,BTC,market,2,0.93,9
+78,2026-04-18,CoinDesk,Solana transactions hit new highs,SOL network records peak usage,SOL,market,2,0.92,9
+79,2026-04-19,CoinTelegraph,Cardano adoption grows steadily,ADA sees increasing user engagement,ADA,adoption,2,0.86,7
+80,2026-04-20,Reuters,ETH scalability improves network performance,Ethereum upgrades enhance transaction speed,ETH,technology,2,0.90,8
+81,2026-04-21,Bloomberg,Bitcoin ETF speculation boosts optimism,Market reacts positively to ETF news,BTC,market,2,0.94,9
+82,2026-04-22,CoinDesk,Crypto market enters bullish phase,Strong upward trend observed across assets,BTC,market,2,0.91,9
+83,2026-04-23,CoinTelegraph,Solana developer ecosystem grows fast,SOL attracts more blockchain projects,SOL,development,2,0.88,8
+84,2026-04-24,Reuters,ETH gas fees decrease improving usability,Lower costs attract more users,ETH,technology,2,0.89,8
+85,2026-04-25,Bloomberg,Bitcoin adoption increases globally,More institutions integrate BTC,BTC,adoption,2,0.93,9
+86,2026-04-26,CoinDesk,Cardano sees strong community growth,ADA user base expands rapidly,ADA,adoption,2,0.85,7
+87,2026-04-27,CoinTelegraph,Crypto sentiment turns bullish again,Investors regain confidence in market,BTC,sentiment,2,0.90,8
+88,2026-04-28,Reuters,ETH ecosystem shows strong expansion,Developer activity increases significantly,ETH,development,2,0.88,8
+89,2026-04-29,Bloomberg,Solana usage reaches record levels,SOL sees unprecedented network activity,SOL,market,2,0.92,9
+90,2026-04-30,CoinDesk,Bitcoin rally continues steadily,BTC maintains strong upward momentum,BTC,market,2,0.93,9
+91,2026-05-01,CoinDesk,Bitcoin sees strong institutional inflows,Pension funds increase BTC allocation amid market optimism,BTC,market,2,0.93,9
+92,2026-05-02,Reuters,Ethereum network upgrades improve throughput,ETH scaling solutions reduce congestion significantly,ETH,technology,2,0.91,8
+93,2026-05-03,CoinTelegraph,Solana records surge in daily active users,More developers and users join SOL ecosystem,SOL,adoption,2,0.89,8
+94,2026-05-04,Bloomberg,Cardano ecosystem expands with new dApps,ADA sees growth in decentralized application deployment,ADA,development,2,0.86,7
+95,2026-05-05,CoinDesk,Crypto market shows stable recovery,Prices stabilize after recent volatility across assets,BTC,market,1,0.78,6
+96,2026-05-06,Reuters,Bitcoin breaks new resistance level,BTC reaches higher price zone attracting buyers,BTC,market,2,0.94,9
+97,2026-05-07,CoinTelegraph,Ethereum DeFi usage hits new high,ETH-based protocols see record transaction volume,ETH,defi,2,0.90,8
+98,2026-05-08,Bloomberg,Positive sentiment grows in crypto market,Investor confidence improves across major tokens,BTC,sentiment,2,0.85,7
+99,2026-05-09,CoinDesk,Solana partnerships increase ecosystem strength,New collaborations boost SOL network utility,SOL,adoption,2,0.88,8
+100,2026-05-10,Reuters,Crypto market rebounds after correction,BTC and ETH recover from short-term decline,BTC,market,2,0.92,9
+
+
+
+101,2026-05-11,Bloomberg,Institutional interest in Bitcoin rises further,Large funds continue accumulating BTC positions,BTC,adoption,2,0.90,8
+102,2026-05-12,CoinTelegraph,Ethereum gas fees remain low after upgrade,Users benefit from reduced transaction costs,ETH,technology,2,0.88,7
+103,2026-05-13,CoinDesk,Solana network stability improves significantly,SOL infrastructure upgrades reduce downtime,SOL,technology,2,0.87,8
+104,2026-05-14,Reuters,Cardano sees steady developer onboarding,New projects launched within ADA ecosystem,ADA,development,2,0.85,7
+105,2026-05-15,Bloomberg,Crypto market remains neutral amid uncertainty,Prices show mixed movement across assets,BTC,market,1,0.74,5
+106,2026-05-16,CoinTelegraph,Bitcoin volatility increases slightly,BTC experiences short-term price fluctuations,BTC,market,0,0.83,7
+107,2026-05-17,CoinDesk,Ethereum adoption in enterprise grows,Companies integrate ETH based solutions,ETH,adoption,2,0.89,8
+108,2026-05-18,Reuters,Solana gains traction in NFT sector,SOL becomes popular for NFT marketplaces,SOL,adoption,2,0.88,8
+109,2026-05-19,Bloomberg,Crypto sentiment remains cautiously optimistic,Market participants expect gradual growth,BTC,sentiment,1,0.80,6
+110,2026-05-20,CoinTelegraph,Bitcoin sees minor correction after rally,BTC price drops slightly after strong gains,BTC,market,0,0.84,7
+111,2026-05-21,CoinDesk,Ethereum staking participation increases,More users lock ETH for network validation,ETH,technology,2,0.91,8
+112,2026-05-22,Reuters,Solana ecosystem attracts new capital inflows,Investors fund new SOL based projects,SOL,adoption,2,0.89,8
+113,2026-05-23,Bloomberg,Cardano upgrades improve smart contract efficiency,ADA network performance enhances significantly,ADA,technology,2,0.87,7
+114,2026-05-24,CoinTelegraph,Crypto market experiences mixed signals,BTC and ETH move in opposite directions,BTC,market,1,0.76,5
+115,2026-05-25,CoinDesk,Bitcoin long-term outlook remains strong,Analysts maintain bullish BTC projections,BTC,market,2,0.92,9
+116,2026-05-26,Reuters,Ethereum layer 2 solutions gain adoption,Scaling networks reduce ETH congestion,ETH,technology,2,0.90,8
+117,2026-05-27,Bloomberg,Solana usage increases in gaming sector,SOL integrated into blockchain gaming platforms,SOL,adoption,2,0.88,8
+118,2026-05-28,CoinTelegraph,Crypto investors remain cautious amid volatility,Market uncertainty affects short-term sentiment,BTC,sentiment,0,0.82,6
+119,2026-05-29,CoinDesk,Bitcoin ETF inflows continue rising,Institutional demand for BTC remains strong,BTC,adoption,2,0.94,9
+120,2026-05-30,Reuters,Ethereum ecosystem shows strong developer growth,ETH attracts new blockchain engineers,ETH,development,2,0.90,8
+121,2026-05-31,Bloomberg,Solana network sees record transaction speed,SOL achieves improved scalability metrics,SOL,technology,2,0.87,8
+122,2026-06-01,CoinTelegraph,Cardano community engagement increases significantly,ADA social activity rises across platforms,ADA,sentiment,2,0.85,7
+123,2026-06-02,CoinDesk,Bitcoin consolidates after recent rally,BTC trades in stable range after gains,BTC,market,1,0.78,6
+124,2026-06-03,Reuters,Ethereum continues dominance in DeFi sector,ETH remains leading platform for DeFi apps,ETH,defi,2,0.91,9
+125,2026-06-04,Bloomberg,Solana attracts institutional partnerships,SOL ecosystem gains enterprise collaborations,SOL,adoption,2,0.89,8
+126,2026-06-05,CoinTelegraph,Crypto market sentiment improves gradually,Investors show renewed optimism,BTC,sentiment,2,0.84,7
+127,2026-06-06,CoinDesk,Bitcoin sees strong mining activity increase,BTC hash rate reaches new highs,BTC,technology,2,0.90,8
+128,2026-06-07,Reuters,Ethereum upgrade reduces network latency,ETH improves transaction efficiency significantly,ETH,technology,2,0.92,9
+129,2026-06-08,Bloomberg,Solana DeFi ecosystem expands rapidly,SOL protocols attract liquidity inflows,SOL,defi,2,0.88,8
+130,2026-06-09,CoinTelegraph,Cardano sees stable long-term growth outlook,ADA maintains consistent development pace,ADA,market,2,0.86,7
+131,2026-06-10,CoinDesk,Bitcoin faces minor bearish pressure,BTC experiences short-term selling pressure,BTC,market,0,0.85,7
+132,2026-06-11,Reuters,Ethereum NFT activity increases again,ETH blockchain sees rising NFT transactions,ETH,adoption,2,0.89,8
+133,2026-06-12,Bloomberg,Solana developer ecosystem continues expanding,SOL attracts new builders and projects,SOL,development,2,0.88,8
+134,2026-06-13,CoinTelegraph,Crypto market remains balanced overall,No major volatility observed in assets,BTC,market,1,0.77,6
+135,2026-06-14,CoinDesk,Bitcoin adoption in payments increases,BTC used more in merchant transactions,BTC,adoption,2,0.91,9
+136,2026-06-15,Reuters,Ethereum remains strong in enterprise use cases,ETH integration expands across industries,ETH,adoption,2,0.90,8
+137,2026-06-16,Bloomberg,Solana performance improvements continue,SOL network upgrades enhance reliability,SOL,technology,2,0.87,8
+138,2026-06-17,CoinTelegraph,Cardano sees moderate ecosystem growth,ADA expands slowly but steadily,ADA,development,1,0.80,6
+139,2026-06-18,CoinDesk,Bitcoin market sentiment stabilizes,BTC investors show reduced volatility expectations,BTC,sentiment,1,0.78,6
+140,2026-06-19,Reuters,Ethereum staking demand increases further,More ETH locked in validation contracts,ETH,technology,2,0.91,8
+141,2026-06-20,Bloomberg,Solana adoption grows in DeFi sector,SOL becomes more prominent in DeFi apps,SOL,defi,2,0.89,8
+142,2026-06-21,CoinTelegraph,Crypto market shows mild correction phase,Assets decline slightly after rally,BTC,market,0,0.83,7
+143,2026-06-22,CoinDesk,Bitcoin remains dominant in institutional portfolios,BTC continues to attract long-term investors,BTC,adoption,2,0.93,9
+144,2026-06-23,Reuters,Ethereum ecosystem innovation accelerates,ETH developers launch new protocols,ETH,development,2,0.90,8
+145,2026-06-24,Bloomberg,Solana sees increased NFT marketplace activity,SOL strengthens position in digital collectibles,SOL,adoption,2,0.88,8
+146,2026-06-25,CoinTelegraph,Cardano maintains stable market position,ADA shows consistent performance,ADA,market,1,0.79,6
+147,2026-06-26,CoinDesk,Bitcoin experiences strong upward trend,BTC price climbs steadily,BTC,market,2,0.94,9
+148,2026-06-27,Reuters,Ethereum gas optimization continues,ETH users benefit from lower fees,ETH,technology,2,0.91,8
+149,2026-06-28,Bloomberg,Solana ecosystem sees strong funding activity,SOL projects receive major investments,SOL,adoption,2,0.89,8
+150,2026-06-29,CoinTelegraph,Crypto market ends month on positive note,Overall sentiment improves across assets,BTC,sentiment,2,0.90,8
+
+
+
+151,2026-06-30,CoinDesk,Bitcoin holds steady after monthly rally,BTC maintains gains despite minor market pullback,BTC,market,2,0.88,8
+152,2026-07-01,Reuters,Ethereum sees increased institutional staking,Large funds continue locking ETH for rewards,ETH,adoption,2,0.91,9
+153,2026-07-02,CoinTelegraph,Solana network uptime improves further,SOL infrastructure shows higher reliability,SOL,technology,2,0.87,8
+154,2026-07-03,Bloomberg,Cardano developer activity remains stable,ADA ecosystem continues gradual expansion,ADA,development,1,0.80,6
+155,2026-07-04,CoinDesk,Crypto market enters consolidation phase,Prices stabilize across major assets,BTC,market,1,0.77,6
+156,2026-07-05,Reuters,Bitcoin ETF demand continues rising,Institutional BTC inflows remain strong,BTC,adoption,2,0.93,9
+157,2026-07-06,CoinTelegraph,Ethereum scaling solutions reduce fees significantly,Layer 2 usage improves ETH efficiency,ETH,technology,2,0.90,8
+158,2026-07-07,Bloomberg,Solana DeFi TVL reaches new milestone,SOL ecosystem locks higher liquidity,SOL,defi,2,0.89,9
+159,2026-07-08,CoinDesk,Cardano sees moderate price recovery,ADA gains slightly after market dip,ADA,market,2,0.82,7
+160,2026-07-09,Reuters,Crypto sentiment turns cautiously positive,Investors regain confidence in market,BTC,sentiment,2,0.84,7
+161,2026-07-10,CoinTelegraph,Bitcoin faces short-term volatility,BTC experiences minor price swings,BTC,market,0,0.85,7
+162,2026-07-11,Bloomberg,Ethereum ecosystem expands in gaming sector,ETH adoption increases in blockchain games,ETH,adoption,2,0.88,8
+163,2026-07-12,CoinDesk,Solana attracts new developer funding,SOL projects receive venture capital support,SOL,development,2,0.90,8
+164,2026-07-13,Reuters,Cardano smart contracts usage increases,ADA dApps show growing activity,ADA,adoption,2,0.86,8
+165,2026-07-14,CoinTelegraph,Crypto market remains flat amid uncertainty,No major movement in BTC or ETH,BTC,market,1,0.76,5
+166,2026-07-15,Bloomberg,Bitcoin mining difficulty reaches new high,BTC network shows increased computational power,BTC,technology,2,0.91,8
+167,2026-07-16,CoinDesk,Ethereum staking rewards attract more users,ETH staking participation increases steadily,ETH,technology,2,0.90,8
+168,2026-07-17,Reuters,Solana NFT ecosystem expands rapidly,SOL becomes leading NFT platform,SOL,adoption,2,0.89,8
+169,2026-07-18,CoinTelegraph,Cardano ecosystem sees slow growth,ADA development continues at steady pace,ADA,development,1,0.79,6
+170,2026-07-19,Bloomberg,Crypto market shows mixed performance,BTC rises while ETH remains stable,BTC,market,1,0.78,6
+171,2026-07-20,CoinDesk,Bitcoin breaks short-term resistance level,BTC attracts renewed buying pressure,BTC,market,2,0.93,9
+172,2026-07-21,Reuters,Ethereum Layer 2 adoption increases further,ETH scaling solutions gain traction,ETH,technology,2,0.91,8
+173,2026-07-22,CoinTelegraph,Solana transaction speed improves,SOL network processes more transactions,SOL,technology,2,0.88,8
+174,2026-07-23,Bloomberg,Cardano sees steady investor interest,ADA maintains stable demand,ADA,market,1,0.81,7
+175,2026-07-24,CoinDesk,Crypto sentiment improves after positive news,Market reacts positively to developments,BTC,sentiment,2,0.85,7
+176,2026-07-25,Reuters,Bitcoin adoption increases in emerging markets,BTC usage expands globally,BTC,adoption,2,0.92,9
+177,2026-07-26,CoinTelegraph,Ethereum DeFi ecosystem hits new record,ETH protocols reach peak activity,ETH,defi,2,0.91,9
+178,2026-07-27,Bloomberg,Solana ecosystem gains enterprise adoption,SOL integrates with large companies,SOL,adoption,2,0.89,8
+179,2026-07-28,CoinDesk,Cardano improves network performance,ADA upgrades enhance scalability,ADA,technology,2,0.87,8
+180,2026-07-29,Reuters,Crypto market experiences mild downturn,Short-term correction affects prices,BTC,market,0,0.83,7
+181,2026-07-30,CoinTelegraph,Bitcoin remains strong despite volatility,BTC holds key support level,BTC,market,2,0.88,8
+182,2026-07-31,Bloomberg,Ethereum sees increased developer engagement,ETH attracts new blockchain developers,ETH,development,2,0.90,8
+183,2026-08-01,CoinDesk,Solana DeFi usage continues rising,SOL liquidity pools expand,SOL,defi,2,0.89,8
+184,2026-08-02,Reuters,Cardano community activity increases,ADA social engagement grows,ADA,sentiment,2,0.84,7
+185,2026-08-03,CoinTelegraph,Crypto market stabilizes after correction,BTC and ETH recover slightly,BTC,market,1,0.78,6
+186,2026-08-04,Bloomberg,Bitcoin institutional adoption strengthens further,BTC becomes more widely accepted,BTC,adoption,2,0.94,9
+187,2026-08-05,CoinDesk,Ethereum gas fees remain low and stable,ETH users benefit from efficiency improvements,ETH,technology,2,0.90,8
+188,2026-08-06,Reuters,Solana attracts new NFT creators,SOL ecosystem grows in digital art,SOL,adoption,2,0.88,8
+189,2026-08-07,CoinTelegraph,Cardano shows gradual market recovery,ADA price increases slightly,ADA,market,2,0.82,7
+190,2026-08-08,Bloomberg,Crypto sentiment remains neutral overall,Market shows balanced outlook,BTC,sentiment,1,0.75,6
+191,2026-08-09,CoinDesk,Bitcoin sees renewed upward momentum,BTC price starts rising again,BTC,market,2,0.92,9
+192,2026-08-10,Reuters,Ethereum staking demand reaches new peak,ETH locked in contracts increases,ETH,technology,2,0.91,8
+193,2026-08-11,CoinTelegraph,Solana network reliability improves,SOL reduces downtime incidents,SOL,technology,2,0.87,8
+194,2026-08-12,Bloomberg,Cardano ecosystem expands slowly but steadily,ADA continues consistent growth,ADA,development,1,0.80,6
+195,2026-08-13,CoinDesk,Crypto market shows strong recovery signs,BTC and ETH rebound together,BTC,market,2,0.90,9
+196,2026-08-14,Reuters,Ethereum adoption rises in enterprises,ETH used in more corporate systems,ETH,adoption,2,0.91,8
+197,2026-08-15,CoinTelegraph,Solana DeFi ecosystem reaches new highs,SOL liquidity and users increase,SOL,defi,2,0.89,9
+198,2026-08-16,Bloomberg,Bitcoin volatility decreases significantly,BTC stabilizes after turbulent phase,BTC,market,1,0.79,7
+199,2026-08-17,CoinDesk,Ethereum continues strong ecosystem growth,ETH developer activity remains high,ETH,development,2,0.90,8
+200,2026-08-18,Reuters,Crypto market closes with positive momentum,Overall bullish sentiment returns,BTC,sentiment,2,0.93,9
+
+
+201,2026-08-19,CoinDesk,Bitcoin consolidates after strong rally,BTC trades within narrow range after surge,BTC,market,1,0.78,6
+202,2026-08-20,Reuters,Ethereum staking participation stabilizes,ETH rewards remain consistent across validators,ETH,technology,1,0.80,7
+203,2026-08-21,CoinTelegraph,Solana sees moderate network activity,SOL usage remains steady without spikes,SOL,market,1,0.76,6
+204,2026-08-22,Bloomberg,Cardano development pace remains unchanged,ADA ecosystem continues gradual updates,ADA,development,1,0.75,6
+205,2026-08-23,CoinDesk,Crypto market shows low volatility,Prices remain stable across major coins,BTC,market,1,0.77,6
+206,2026-08-24,Reuters,Bitcoin trading volume declines slightly,BTC market activity slows down,BTC,market,0,0.82,5
+207,2026-08-25,CoinTelegraph,Ethereum gas fees remain predictable,ETH network costs stay stable,ETH,technology,1,0.79,6
+208,2026-08-26,Bloomberg,Solana NFT activity slows down,SOL ecosystem sees reduced trading,SOL,adoption,0,0.78,5
+209,2026-08-27,CoinDesk,Cardano price movement remains flat,ADA shows no major change,ADA,market,1,0.76,5
+210,2026-08-28,Reuters,Bitcoin sentiment remains neutral,BTC market lacks strong direction,BTC,sentiment,1,0.74,5
+211,2026-08-29,CoinTelegraph,Ethereum network usage steady,ETH activity remains consistent,ETH,market,1,0.77,6
+212,2026-08-30,Bloomberg,Solana trading volume stable,SOL shows no unusual spikes,SOL,market,1,0.75,5
+213,2026-08-31,CoinDesk,Crypto market enters quiet phase,Low trading activity observed,BTC,market,0,0.80,4
+214,2026-09-01,Reuters,Bitcoin price consolidates further,BTC remains range-bound,BTC,market,1,0.78,6
+215,2026-09-02,CoinTelegraph,Ethereum staking rewards unchanged,ETH yields remain stable,ETH,technology,1,0.79,6
+216,2026-09-03,Bloomberg,Cardano ecosystem shows no major updates,ADA development remains steady,ADA,development,1,0.75,5
+217,2026-09-04,CoinDesk,Solana network performance stable,SOL continues consistent throughput,SOL,technology,1,0.77,6
+218,2026-09-05,Reuters,Crypto market remains sideways,BTC and ETH show no trend,BTC,market,1,0.76,5
+219,2026-09-06,CoinTelegraph,Bitcoin volatility decreases further,BTC becomes more stable,BTC,market,1,0.79,6
+220,2026-09-07,Bloomberg,Ethereum ecosystem unchanged,ETH activity remains flat,ETH,market,1,0.75,5
+221,2026-09-08,CoinDesk,Solana adoption slows slightly,SOL usage growth decelerates,SOL,adoption,0,0.78,5
+222,2026-09-09,Reuters,Cardano market activity weakens,ADA trading volume drops,ADA,market,0,0.79,5
+223,2026-09-10,CoinTelegraph,Bitcoin demand remains stable,BTC shows consistent interest,BTC,market,1,0.77,6
+224,2026-09-11,Bloomberg,Ethereum gas fees stable under load,ETH network remains efficient,ETH,technology,1,0.80,6
+225,2026-09-12,CoinDesk,Solana price remains unchanged,SOL shows no movement,SOL,market,1,0.76,5
+226,2026-09-13,Reuters,Crypto sentiment neutral overall,Market shows balanced outlook,BTC,sentiment,1,0.75,5
+227,2026-09-14,CoinTelegraph,Bitcoin range-bound trading continues,BTC fluctuates within narrow band,BTC,market,1,0.78,6
+228,2026-09-15,Bloomberg,Ethereum ecosystem stable growth,ETH continues steady development,ETH,development,1,0.79,6
+229,2026-09-16,CoinDesk,Solana network stable performance,SOL maintains uptime consistency,SOL,technology,1,0.77,6
+230,2026-09-17,Reuters,Cardano remains in consolidation phase,ADA price movement limited,ADA,market,1,0.75,5
+231,2026-09-18,CoinTelegraph,Bitcoin shows no major breakout,BTC remains within resistance levels,BTC,market,1,0.78,6
+232,2026-09-19,Bloomberg,Ethereum trading activity steady,ETH volume remains consistent,ETH,market,1,0.77,6
+233,2026-09-20,CoinDesk,Solana DeFi activity stable,SOL ecosystem maintains usage,SOL,defi,1,0.79,6
+234,2026-09-21,Reuters,Crypto market remains calm,No major volatility detected,BTC,market,1,0.76,5
+235,2026-09-22,CoinTelegraph,Bitcoin investor interest unchanged,BTC demand stable,BTC,market,1,0.78,6
+236,2026-09-23,Bloomberg,Ethereum scaling usage steady,ETH Layer 2 adoption consistent,ETH,technology,1,0.80,6
+237,2026-09-24,CoinDesk,Solana ecosystem steady activity,SOL shows no unusual changes,SOL,market,1,0.77,5
+238,2026-09-25,Reuters,Cardano development steady pace,ADA continues gradual updates,ADA,development,1,0.76,5
+239,2026-09-26,CoinTelegraph,Bitcoin market shows equilibrium,BTC neither rising nor falling,BTC,market,1,0.78,6
+240,2026-09-27,Bloomberg,Ethereum network remains stable,ETH performance unchanged,ETH,technology,1,0.79,6
+241,2026-09-28,CoinDesk,Solana trading stable,No significant SOL movement,SOL,market,1,0.76,5
+242,2026-09-29,Reuters,Crypto sentiment remains balanced,Market shows no bias,BTC,sentiment,1,0.75,5
+243,2026-09-30,CoinTelegraph,Bitcoin consolidation continues,BTC remains in tight range,BTC,market,1,0.78,6
+244,2026-10-01,Bloomberg,Ethereum ecosystem steady growth,ETH maintains stable activity,ETH,development,1,0.79,6
+245,2026-10-02,CoinDesk,Solana remains stable network,SOL uptime consistent,SOL,technology,1,0.77,6
+246,2026-10-03,Reuters,Cardano trading stable,ADA shows no volatility,ADA,market,1,0.75,5
+247,2026-10-04,CoinTelegraph,Bitcoin market quiet phase,BTC shows low activity, BTC,market,0,0.80,5
+248,2026-10-05,Bloomberg,Ethereum remains unchanged,ETH stable trading continues,ETH,market,1,0.77,6
+249,2026-10-06,CoinDesk,Solana ecosystem stable,SOL maintains performance,SOL,market,1,0.76,5
+250,2026-10-07,Reuters,Crypto market closes neutral,No major price movement,BTC,market,1,0.75,5
+
+
+251,2026-10-08,CoinDesk,Bitcoin shows slight upward drift,BTC slowly gains after neutral phase,BTC,market,2,0.81,6
+252,2026-10-09,Reuters,Ethereum gains minor bullish momentum,ETH sees small price recovery,ETH,market,2,0.83,6
+253,2026-10-10,CoinTelegraph,Solana adoption increases gradually,SOL ecosystem sees steady user growth,SOL,adoption,2,0.82,7
+254,2026-10-11,Bloomberg,Cardano developer activity rises slightly,ADA shows improved development engagement,ADA,development,2,0.80,6
+255,2026-10-12,CoinDesk,Crypto market shows early recovery signs,Small bullish trend emerging,BTC,market,2,0.84,7
+256,2026-10-13,Reuters,Bitcoin rebounds from support level,BTC shows technical recovery,BTC,market,2,0.86,8
+257,2026-10-14,CoinTelegraph,Ethereum ecosystem strengthens gradually,ETH usage increases across apps,ETH,defi,2,0.85,8
+258,2026-10-15,Bloomberg,Solana network activity improves,SOL sees higher transaction volume,SOL,technology,2,0.83,7
+259,2026-10-16,CoinDesk,Cardano sentiment turns positive,ADA community shows optimism,ADA,sentiment,2,0.81,7
+260,2026-10-17,Reuters,Bitcoin trading pressure eases,BTC stabilizes after volatility,BTC,market,2,0.85,7
+261,2026-10-18,CoinTelegraph,Ethereum gas usage increases,ETH network demand rises,ETH,technology,2,0.84,7
+262,2026-10-19,Bloomberg,Solana shows stronger ecosystem growth,SOL adoption increases across apps,SOL,adoption,2,0.86,8
+263,2026-10-20,CoinDesk,Crypto sentiment turns slightly bullish,Market optimism improves,BTC,sentiment,2,0.83,7
+264,2026-10-21,Reuters,Bitcoin demand increases steadily,BTC buying pressure rises,BTC,market,2,0.87,8
+265,2026-10-22,CoinTelegraph,Ethereum scaling solutions perform well,ETH Layer 2 usage improves,ETH,technology,2,0.85,8
+266,2026-10-23,Bloomberg,Cardano network upgrades progress,ADA improves infrastructure,ADA,development,2,0.82,7
+267,2026-10-24,CoinDesk,Solana price shows recovery trend,SOL rebounds slightly,SOL,market,2,0.84,7
+268,2026-10-25,Reuters,Crypto market shows bullish tilt,BTC and ETH gain momentum,BTC,market,2,0.86,8
+269,2026-10-26,CoinTelegraph,Bitcoin breaks minor resistance,BTC shows upward breakout,BTC,market,2,0.88,9
+270,2026-10-27,Bloomberg,Ethereum adoption increases further,ETH used more in DeFi apps,ETH,defi,2,0.85,8
+271,2026-10-28,CoinDesk,Solana network expands usage,SOL sees increased transactions,SOL,adoption,2,0.83,7
+272,2026-10-29,Reuters,Cardano sentiment improves gradually,ADA gains investor interest,ADA,sentiment,2,0.81,7
+273,2026-10-30,CoinTelegraph,Bitcoin shows strong recovery,BTC climbs after dip,BTC,market,2,0.89,9
+274,2026-10-31,Bloomberg,Ethereum ecosystem gains traction,ETH developer activity rises,ETH,development,2,0.86,8
+275,2026-11-01,CoinDesk,Solana bullish momentum increases,SOL shows strong performance,SOL,market,2,0.87,8
+276,2026-11-02,Reuters,Crypto market optimism grows,Investors turn positive,BTC,sentiment,2,0.85,7
+277,2026-11-03,CoinTelegraph,Bitcoin institutional demand rises,BTC sees stronger inflows,BTC,adoption,2,0.88,9
+278,2026-11-04,Bloomberg,Ethereum scaling adoption expands,ETH Layer 2 usage increases,ETH,technology,2,0.86,8
+279,2026-11-05,CoinDesk,Solana ecosystem gains strength,SOL network activity increases,SOL,market,2,0.84,7
+280,2026-11-06,Reuters,Cardano shows moderate rally,ADA price increases slightly,ADA,market,2,0.83,7
+281,2026-11-07,CoinTelegraph,Bitcoin bullish sentiment returns,BTC market turns positive,BTC,sentiment,2,0.89,9
+282,2026-11-08,Bloomberg,Ethereum DeFi usage rises sharply,ETH adoption in DeFi increases,ETH,defi,2,0.87,8
+283,2026-11-09,CoinDesk,Solana gains developer interest,SOL ecosystem expands,SOL,development,2,0.85,8
+284,2026-11-10,Reuters,Crypto market gains momentum overall,BTC and ETH rise together,BTC,market,2,0.88,9
+285,2026-11-11,CoinTelegraph,Bitcoin continues upward trend,BTC maintains rally,BTC,market,2,0.90,9
+286,2026-11-12,Bloomberg,Ethereum network strengthens further,ETH scalability improves,ETH,technology,2,0.86,8
+287,2026-11-13,CoinDesk,Solana shows strong recovery,SOL price increases,SOL,market,2,0.84,7
+288,2026-11-14,Reuters,Cardano adoption rises steadily,ADA ecosystem expands,ADA,adoption,2,0.82,7
+289,2026-11-15,CoinTelegraph,Bitcoin gains strong support,BTC price stabilizes upward,BTC,market,2,0.89,9
+290,2026-11-16,Bloomberg,Ethereum ecosystem expands rapidly,ETH usage increases,ETH,defi,2,0.87,8
+291,2026-11-17,CoinDesk,Solana bullish momentum continues,SOL shows sustained growth,SOL,market,2,0.88,8
+292,2026-11-18,Reuters,Crypto sentiment strongly positive,Market outlook improves,BTC,sentiment,2,0.86,8
+293,2026-11-19,CoinTelegraph,Bitcoin hits new short-term high,BTC reaches peak level,BTC,market,2,0.91,10
+294,2026-11-20,Bloomberg,Ethereum adoption accelerates,ETH usage expands significantly,ETH,adoption,2,0.88,9
+295,2026-11-21,CoinDesk,Solana network growth surges,SOL activity spikes,SOL,market,2,0.89,9
+296,2026-11-22,Reuters,Cardano ecosystem strengthens further,ADA development improves,ADA,development,2,0.83,7
+297,2026-11-23,CoinTelegraph,Bitcoin strong bullish continuation,BTC maintains upward trajectory,BTC,market,2,0.92,10
+298,2026-11-24,Bloomberg,Ethereum DeFi dominance grows,ETH leads DeFi expansion,ETH,defi,2,0.88,9
+299,2026-11-25,CoinDesk,Solana reaches new growth phase,SOL ecosystem expands rapidly,SOL,adoption,2,0.90,9
+300,2026-11-26,Reuters,Crypto market enters strong bullish cycle,BTC ETH and SOL rise together,BTC,market,2,0.91,10
+
+301,2026-11-27,CoinDesk,Bitcoin consolidates after strong rally,BTC stabilizes after bullish run,BTC,market,2,0.87,8
+302,2026-11-28,Reuters,Ethereum maintains upward momentum,ETH holds gains from previous surge,ETH,market,2,0.86,8
+303,2026-11-29,CoinTelegraph,Solana ecosystem remains strong,SOL continues steady growth,SOL,adoption,2,0.85,8
+304,2026-11-30,Bloomberg,Cardano network improves steadily,ADA shows consistent development progress,ADA,development,2,0.83,7
+305,2026-12-01,CoinDesk,Bitcoin demand remains high,BTC trading volume stays elevated,BTC,market,2,0.88,9
+306,2026-12-02,Reuters,Ethereum DeFi usage expands further,ETH sees increased DeFi participation,ETH,defi,2,0.87,9
+307,2026-12-03,CoinTelegraph,Solana hits new activity peak,SOL transaction volume rises,SOL,market,2,0.89,9
+308,2026-12-04,Bloomberg,Cardano adoption continues growth,ADA user base expands,ADA,adoption,2,0.84,7
+309,2026-12-05,CoinDesk,Crypto market shows strong bullish trend,Overall market remains positive,BTC,sentiment,2,0.90,9
+310,2026-12-06,Reuters,Bitcoin breaks higher resistance,BTC reaches new short term high,BTC,market,2,0.92,10
+311,2026-12-07,CoinTelegraph,Ethereum scalability improves further,ETH network upgrades enhance speed,ETH,technology,2,0.88,8
+312,2026-12-08,Bloomberg,Solana ecosystem expands rapidly,SOL gains new developers,SOL,development,2,0.86,8
+313,2026-12-09,CoinDesk,Cardano sentiment turns strongly positive,ADA community becomes optimistic,ADA,sentiment,2,0.85,8
+314,2026-12-10,Reuters,Bitcoin sees strong institutional inflow,BTC demand rises among investors,BTC,adoption,2,0.91,10
+315,2026-12-11,CoinTelegraph,Ethereum adoption accelerates in DeFi,ETH usage grows significantly,ETH,defi,2,0.89,9
+316,2026-12-12,Bloomberg,Solana network usage surges,SOL transaction count increases,SOL,market,2,0.88,9
+317,2026-12-13,CoinDesk,Crypto sentiment remains bullish,BTC ETH strong upward bias,BTC,sentiment,2,0.87,8
+318,2026-12-14,Reuters,Bitcoin price continues upward trend,BTC shows steady gains,BTC,market,2,0.90,9
+319,2026-12-15,CoinTelegraph,Ethereum Layer 2 adoption rises,ETH scaling solutions widely used,ETH,technology,2,0.88,9
+320,2026-12-16,Bloomberg,Cardano development accelerates,ADA ecosystem improvements continue,ADA,development,2,0.84,7
+321,2026-12-17,CoinDesk,Solana bullish momentum continues,SOL price increases steadily,SOL,market,2,0.89,9
+322,2026-12-18,Reuters,Bitcoin investor confidence rises,BTC market sentiment improves,BTC,sentiment,2,0.91,9
+323,2026-12-19,CoinTelegraph,Ethereum ecosystem expands rapidly,ETH adoption increases,ETH,adoption,2,0.88,9
+324,2026-12-20,Bloomberg,Solana shows strong ecosystem growth,SOL developer activity rises,SOL,development,2,0.87,8
+325,2026-12-21,CoinDesk,Crypto market enters strong rally phase,Market trend remains bullish,BTC,market,2,0.92,10
+326,2026-12-22,Reuters,Bitcoin reaches new highs,BTC price surges,BTC,market,2,0.93,10
+327,2026-12-23,CoinTelegraph,Ethereum gains widespread adoption,ETH usage expands globally,ETH,defi,2,0.90,9
+328,2026-12-24,Bloomberg,Solana transaction speed improves,SOL network performance increases,SOL,technology,2,0.86,8
+329,2026-12-25,CoinDesk,Cardano ecosystem gains traction,ADA adoption increases,ADA,adoption,2,0.85,8
+330,2026-12-26,Reuters,Bitcoin bullish sentiment strengthens,BTC investor confidence high,BTC,sentiment,2,0.92,9
+331,2026-12-27,CoinTelegraph,Ethereum DeFi dominance increases,ETH leads DeFi ecosystem,ETH,defi,2,0.91,10
+332,2026-12-28,Bloomberg,Solana market performance improves,SOL shows strong gains,SOL,market,2,0.88,9
+333,2026-12-29,CoinDesk,Crypto market remains highly bullish,BTC ETH SOL all rising,BTC,market,2,0.93,10
+334,2026-12-30,Reuters,Bitcoin continues upward momentum,BTC price steadily increases,BTC,market,2,0.92,10
+335,2026-12-31,CoinTelegraph,Ethereum network adoption grows,ETH ecosystem expands rapidly,ETH,adoption,2,0.90,9
+336,2027-01-01,Bloomberg,Solana starts year strong,SOL sees increased activity,SOL,market,2,0.88,9
+337,2027-01-02,CoinDesk,Cardano shows steady growth,ADA development continues,ADA,development,2,0.84,7
+338,2027-01-03,Reuters,Bitcoin investor demand increases,BTC market remains strong,BTC,adoption,2,0.91,9
+339,2027-01-04,CoinTelegraph,Ethereum scalability widely adopted,ETH Layer 2 usage increases,ETH,technology,2,0.89,9
+340,2027-01-05,Bloomberg,Solana ecosystem expands further,SOL developer activity rises,SOL,development,2,0.87,8
+341,2027-01-06,CoinDesk,Crypto sentiment remains very positive,Market outlook bullish,BTC,sentiment,2,0.92,9
+342,2027-01-07,Reuters,Bitcoin maintains strong upward trend,BTC price stability with gains,BTC,market,2,0.91,9
+343,2027-01-08,CoinTelegraph,Ethereum adoption accelerates globally,ETH usage increases worldwide,ETH,defi,2,0.90,9
+344,2027-01-09,Bloomberg,Solana network strengthens,SOL performance improves,SOL,market,2,0.88,8
+345,2027-01-10,CoinDesk,Cardano ecosystem grows steadily,ADA adoption increases,ADA,adoption,2,0.85,8
+346,2027-01-11,Reuters,Bitcoin bullish cycle continues,BTC market remains strong,BTC,market,2,0.93,10
+347,2027-01-12,CoinTelegraph,Ethereum DeFi activity surges,ETH dominates DeFi space,ETH,defi,2,0.91,10
+348,2027-01-13,Bloomberg,Solana reaches new growth milestone,SOL ecosystem expands,SOL,adoption,2,0.89,9
+349,2027-01-14,CoinDesk,Crypto market extremely bullish,BTC ETH SOL surge,BTC,market,2,0.94,10
+350,2027-01-15,Reuters,Bitcoin hits strong resistance breakout,BTC reaches new high,BTC,market,2,0.95,10
